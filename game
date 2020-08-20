@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-      <iframe src="http://www.freeonlinegames.com/embed/144939" width="900" height="675" frameborder="no" scrolling="no"></iframe>
+      <div>
+<script src="https://cdn.htmlgames.com/embed.js?game=FlappyColors&amp;bgcolor=white"></script>
+</div>
     </head>
     <body>
         <div class="container">
